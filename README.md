@@ -2,6 +2,7 @@
 Unordered list of practical papers I found interesting, I'll keep on adding.
 
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+* [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
 * [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381)
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 * [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703?fbclid=IwAR2RnDjn9WBu8SwOgezv6-IgTvI4wINJibWhDTI5wozZjVYxGdF6--iNuHo)
