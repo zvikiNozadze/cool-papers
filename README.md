@@ -10,3 +10,5 @@ Unordered list of practical papers I found interesting, I'll keep on adding.
 * [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 * [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+* [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
+* [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a.html)
