@@ -9,3 +9,4 @@ Unordered list of practical papers I found interesting, I'll keep on adding.
 * [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)
 * [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 * [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
+* [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
