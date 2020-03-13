@@ -1,6 +1,6 @@
 # practical-ml-papers
-Unordered list of practical papers I found interesting, I'll keep on adding.
-
+#### Unordered list of practical papers I found interesting, I'll keep on adding.
+##### read:
 * [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381)
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 * [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)
@@ -14,9 +14,11 @@ Unordered list of practical papers I found interesting, I'll keep on adding.
 * [A robust functional time series forecasting method](https://arxiv.org/pdf/1901.06030.pdf)
 * [Robust and Adaptive Online Time Series Prediction with LSTM](http://downloads.hindawi.com/journals/cin/2017/9478952.pdf)
  <br><br/>
+##### unread:
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
 * [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703?fbclid=IwAR2RnDjn9WBu8SwOgezv6-IgTvI4wINJibWhDTI5wozZjVYxGdF6--iNuHo)
 * [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a.html)
 * [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://arxiv.org/abs/2003.03581?fbclid=IwAR0VVA6eE8Vzj59_m9sAQLX01d_KV2JAPF97gtxHSkf-DsyHvznMCuwPrIs)
+* [KALE: When Energy-Based Learning Meets Adversarial Training](https://arxiv.org/pdf/2003.05033.pdf)
