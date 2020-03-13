@@ -11,6 +11,7 @@ Unordered list of practical papers I found interesting, I'll keep on adding.
 * [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 * [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 * [FORECASTING ECONOMIC AND FINANCIAL TIME SERIES: ARIMA VS. LSTM](https://arxiv.org/ftp/arxiv/papers/1803/1803.06386.pdf)
+* [A robust functional time series forecasting method](https://arxiv.org/pdf/1901.06030.pdf)
  <br><br/>
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
