@@ -10,8 +10,9 @@ Unordered list of practical papers I found interesting, I'll keep on adding.
 * [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852)
 * [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 * [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
-* [FORECASTING ECONOMIC AND FINANCIAL TIME SERIES: ARIMA VS. LSTM](https://arxiv.org/ftp/arxiv/papers/1803/1803.06386.pdf)
+* [Forecasting economic and financial time series: ARIMA VS LSTM](https://arxiv.org/ftp/arxiv/papers/1803/1803.06386.pdf)
 * [A robust functional time series forecasting method](https://arxiv.org/pdf/1901.06030.pdf)
+* [Robust and Adaptive Online Time Series Prediction with LSTM](http://downloads.hindawi.com/journals/cin/2017/9478952.pdf)
  <br><br/>
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
