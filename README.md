@@ -1,6 +1,6 @@
 # practical-ml-papers
 #### Unordered list of practical papers I found interesting, I'll keep on adding.
-##### read:
+
 * [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381)
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 * [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)
@@ -14,7 +14,6 @@
 * [A robust functional time series forecasting method](https://arxiv.org/pdf/1901.06030.pdf)
 * [Robust and Adaptive Online Time Series Prediction with LSTM](http://downloads.hindawi.com/journals/cin/2017/9478952.pdf)
  <br><br/>
-##### unread:
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
