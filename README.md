@@ -14,6 +14,7 @@
 * [A robust functional time series forecasting method](https://arxiv.org/pdf/1901.06030.pdf)
 * [Robust and Adaptive Online Time Series Prediction with LSTM](http://downloads.hindawi.com/journals/cin/2017/9478952.pdf)
  <br><br/>
+* [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 * [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
