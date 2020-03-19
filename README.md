@@ -14,6 +14,7 @@
 * [A robust functional time series forecasting method](https://arxiv.org/pdf/1901.06030.pdf)
 * [Robust and Adaptive Online Time Series Prediction with LSTM](http://downloads.hindawi.com/journals/cin/2017/9478952.pdf)
  <br><br/>
+* [Highway Networks](https://arxiv.org/abs/1505.00387)
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 * [Hierarchical Graph Pooling with Structure Learning](https://arxiv.org/abs/1911.05954)
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
