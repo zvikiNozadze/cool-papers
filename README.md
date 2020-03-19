@@ -1,33 +1,27 @@
 # practical-ml-papers
 #### Unordered list of wonderful practical papers I found interesting, I'll keep on adding.
-<br></br>
 ### Machine Learning
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 * [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 * [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
-<br></br>
 
 ### Data Science
 * [Forecasting economic and financial time series: ARIMA VS LSTM](https://arxiv.org/ftp/arxiv/papers/1803/1803.06386.pdf)
 * [A robust functional time series forecasting method](https://arxiv.org/pdf/1901.06030.pdf)
 * [Robust and Adaptive Online Time Series Prediction with LSTM](http://downloads.hindawi.com/journals/cin/2017/9478952.pdf)
-<br></br>
 
 ### Computer Vision
 * [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381)
 * [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)
 * [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852)
-<br></br>
 
 ### Natural Language Processing
 * [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 
 <br><br/>
-<br><br/>
 ### nice ones
-<br><br/>
 * [Highway Networks](https://arxiv.org/abs/1505.00387)
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 * [Hierarchical Graph Pooling with Structure Learning](https://arxiv.org/abs/1911.05954)
