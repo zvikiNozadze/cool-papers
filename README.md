@@ -1,5 +1,5 @@
 # practical-ml-papers
-#### Unordered list of wonderful practical papers I found interesting, I'll keep on adding.
+### Unordered list of wonderful practical papers I found interesting, I'll keep on adding.
 #### machine learning
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
