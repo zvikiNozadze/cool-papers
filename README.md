@@ -1,4 +1,4 @@
-# practical-ml-papers
+# Cool Papers
 ### Unordered list of wonderful practical papers I found interesting, I'll keep on adding.
 #### machine learning
 * [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
