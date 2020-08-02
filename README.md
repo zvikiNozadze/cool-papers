@@ -2,6 +2,7 @@
 ### Unordered list of wonderful practical papers I found interesting, I'll keep on adding.
 ### system software (operating/distributed systems, networks)
 * [MapReduce: Simplified Data Processing on Large Clusters](https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf)
+* [On-the-Fly Garbage Collection: An Exercise in Cooperation](https://lamport.azurewebsites.net/pubs/garbage.pdf)
 ### machine learning
 * [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
